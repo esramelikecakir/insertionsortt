@@ -1,6 +1,6 @@
 # insertionsortt
 [22,27,16,2,18,6] we use Insertion Sort
-Fırstly find the smallest number and swap each other.
+1-Fırstly find the smallest number and swap each other.
 
 2 is the smallest so our new lis t --> [2,27,16,22,18,6]
 
@@ -12,9 +12,13 @@ Continue like that --> [2,6,16,22,18,27]
 
 [2,6,16,18,22,27] And we got the solution.
 
-Show the big O in insertion sort big o is n^2 so in this case big o is 36
 
-Which case does the number 18 fall into after the array is sorted?
+
+2-Show the big O in insertion sort big o is n^2 so in this case big o is 36
+
+
+
+3-Which case does the number 18 fall into after the array is sorted?
  Average Case
 
   Write the first 4 steps of [7,3,5,8,2,9,4,15.6] according to Insertion Sort.
